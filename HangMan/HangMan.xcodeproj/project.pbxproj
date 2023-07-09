@@ -21,6 +21,7 @@
 		A199E6312A23A84B00244819 /* settingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A199E6302A23A84B00244819 /* settingsViewController.swift */; };
 		A199E6332A23A90100244819 /* gameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A199E6322A23A90100244819 /* gameViewController.swift */; };
 		A199E6352A23A92400244819 /* statisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A199E6342A23A92400244819 /* statisticsViewController.swift */; };
+		A1FB891C2A4DD77D00D68180 /* finishingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1FB891B2A4DD77D00D68180 /* finishingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		A199E6302A23A84B00244819 /* settingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settingsViewController.swift; sourceTree = "<group>"; };
 		A199E6322A23A90100244819 /* gameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameViewController.swift; sourceTree = "<group>"; };
 		A199E6342A23A92400244819 /* statisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = statisticsViewController.swift; sourceTree = "<group>"; };
+		A1FB891B2A4DD77D00D68180 /* finishingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = finishingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 		A199E5F42A239FBF00244819 = {
 			isa = PBXGroup;
 			children = (
+				A1FB891B2A4DD77D00D68180 /* finishingViewController.swift */,
 				A155BFF62A3628A100FB3BC0 /* gameModel.swift */,
 				A16109D02A29641600650056 /* greetingsViewController.swift */,
 				A199E6342A23A92400244819 /* statisticsViewController.swift */,
@@ -277,6 +280,7 @@
 				A199E6012A239FBF00244819 /* AppDelegate.swift in Sources */,
 				A199E6032A239FBF00244819 /* SceneDelegate.swift in Sources */,
 				A199E6332A23A90100244819 /* gameViewController.swift in Sources */,
+				A1FB891C2A4DD77D00D68180 /* finishingViewController.swift in Sources */,
 				A199E6312A23A84B00244819 /* settingsViewController.swift in Sources */,
 				A199E6352A23A92400244819 /* statisticsViewController.swift in Sources */,
 				A16109D12A29641600650056 /* greetingsViewController.swift in Sources */,
